@@ -4,12 +4,12 @@ import "firebase/firestore"
 import "firebase/storage"
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCbgV4i-DeY4t5lz3heQ_M9q-EnYW09QqQ",
-    authDomain: "gdrive-c8510.firebaseapp.com",
-    projectId: "gdrive-c8510",
-    storageBucket: "gdrive-c8510.appspot.com",
-    messagingSenderId: "512841815136",
-    appId: "1:512841815136:web:4aa9b29fd1d80adb4b1f05"
+  apiKey: "AIzaSyBG-Yz4KdrmEw6ZG1xwKDpoMTCNbEzrRGw",
+  authDomain: "cloud-drive-ab4b0.firebaseapp.com",
+  projectId: "cloud-drive-ab4b0",
+  storageBucket: "cloud-drive-ab4b0.appspot.com",
+  messagingSenderId: "213459127117",
+  appId: "1:213459127117:web:5e74af5def4f4aa8210504"
 })
 
 const firestore = app.firestore()
